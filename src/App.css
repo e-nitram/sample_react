@@ -39,7 +39,7 @@ h1 {
 }
 
 .Content {
-  display: flex;
+  display: flexbox;
   flex-direction: column;
   justify-content: space-evenly;
   /* border: 1px solid black; */
